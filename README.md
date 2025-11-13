@@ -1,2 +1,2 @@
-# quirkscan
-Local Security Scanner for system quirks
+# **QuirkScan**
+## Local Security Scanner for system quirks
